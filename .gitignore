@@ -1,0 +1,17 @@
+# Ignorer les fichiers compilés
+*.js
+*.js.map
+
+# Ignorer les dossiers de dépendances
+node_modules/
+
+# Ignorer les dossiers de build si tu les utilises
+dist/
+build/
+
+# Ignorer les fichiers temporaires d'OS/éditeur
+.DS_Store
+Thumbs.db
+
+# Ignorer les fichiers de logs
+*.log
